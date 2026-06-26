@@ -1,0 +1,11 @@
+# Dados sensíveis — nunca versionar (base de menores)
+*.csv
+data/raw/
+data/processed/
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.streamlit/secrets.toml
