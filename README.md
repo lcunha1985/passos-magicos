@@ -6,7 +6,7 @@ Solução de dados ponta a ponta para **identificar precocemente** alunos com ri
 educacional, permitindo intervenção antecipada da equipe pedagógica. Usa os indicadores do
 **ano corrente** para estimar a probabilidade de defasagem **no ano seguinte**.
 
-🔗 **App online:** _(cole aqui a URL do Streamlit Community Cloud)_
+🔗 **App online:**  https://pmagicos-datathon.streamlit.app/
 
 ---
 
